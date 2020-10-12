@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Fit function of the gain}{3}{0}{1}
+\beamer@sectionintoc {2}{R7378A BA1511}{4}{0}{2}
+\beamer@sectionintoc {3}{R7378A BA1512}{7}{0}{3}
+\beamer@sectionintoc {4}{R7378A BA1513}{10}{0}{4}
+\beamer@sectionintoc {5}{R7378A ZN2207}{13}{0}{5}
+\beamer@sectionintoc {6}{R762 NA0138 (typical gain)}{16}{0}{6}

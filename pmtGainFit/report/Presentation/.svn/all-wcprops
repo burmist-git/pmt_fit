@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projects/GRED/!svn/ver/37/report-pdflatex
+END
+example.tex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/GRED/!svn/ver/37/report-pdflatex/example.tex
+END
+makeLatexTextForPhotos_v.C
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/GRED/!svn/ver/36/report-pdflatex/makeLatexTextForPhotos_v.C
+END
+changePhotName.bash
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/GRED/!svn/ver/32/report-pdflatex/changePhotName.bash
+END
+texMake
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/GRED/!svn/ver/26/report-pdflatex/texMake
+END
+clean
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/GRED/!svn/ver/26/report-pdflatex/clean
+END
+example.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/GRED/!svn/ver/26/report-pdflatex/example.pdf
+END
+listOfPhotos.dat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/GRED/!svn/ver/33/report-pdflatex/listOfPhotos.dat
+END
+makeLatexTextForPhotos.C
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/GRED/!svn/ver/35/report-pdflatex/makeLatexTextForPhotos.C
+END
